@@ -1,0 +1,18 @@
+{
+  "version": "v1",
+  "packages": {
+    "MyApp": {
+      "signature": "3648b13c3ee420e745e722789044e8ae",
+      "file": true,
+      "replaced": "^0.0.0"
+    },
+    "react-native-tab-view": {
+      "signature": "c94032dc79dbfcc8682c77ef45cff19d",
+      "file": true
+    },
+    "MyLibrary": {
+      "signature": "2472e5aab788fc44cf55a21ac337a10a",
+      "file": true
+    }
+  }
+}
